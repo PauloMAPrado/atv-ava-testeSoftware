@@ -2,11 +2,11 @@
 
 **Curso:** Bacharelado em Sistemas de Informação (8º Período)  
 **Disciplina:** Teste de Software  
-**Professora:** Dra. Ramayane Bonacin Braga  
-**Instituição:** IF Goiano – Campus Ceres  
+**Professora:** Ramayane Bonacin Braga  
+**Instituição:** Instituto Federal Goiano – Campus Ceres  
 **Integrantes (Dupla):** 
-- Paulo Martins Alves do Prado
-- Sara Luiz Farias
+- [Paulo Martins Alves do Prado](https://github.com/PauloMAPrado)
+- [Sara Luiz Farias](https://github.com/saraafariass)
 
 ---
 
