@@ -5,8 +5,8 @@
 **Professora:** Dra. Ramayane Bonacin Braga  
 **Instituição:** IF Goiano – Campus Ceres  
 **Integrantes (Dupla):** 
-- [Paulo Martins Alves do Prado]
-- [Sara Luiz Farias]
+- Paulo Martins Alves do Prado
+- Sara Luiz Farias
 
 ---
 
